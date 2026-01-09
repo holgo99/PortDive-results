@@ -767,7 +767,18 @@ OpenAI partnership is cancelled/deprioritized. Major customer loss. CEO departur
 ***
 
 ## **PART 9: CHARTS & VISUALIZATIONS**
----
+
+### Chart 1: Elliott Wave Structure with Fibonacci Levels (Dec 2025-Jan 2026)
+![Elliot Wave Structure](assets/20260108/975306de.png)
+
+### Chart 2: Risk-Reward Payoff
+![Risk-Reward-Payoff](assets/20260108/2a2df10a.png)
+
+### Chart 3: Technical Indicators
+![Technical Indicators](assets/20260108/e1d6fb31.png)
+
+### Chart 4: Scenario Probabilities Overview 
+![Scenario Probabilities](assets/20260108/1f3d0552.png)
 
 ## **PART 10: FINAL VERDICT & STRATEGY RECOMMENDATION**
 
@@ -988,4 +999,3 @@ Analyst holds 105 shares of ZETA as of Jan 8, 2026. No compensation received fro
 ***
 
 **END REPORT**
-
